@@ -8,7 +8,7 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
-
+HTML stands for hypertext markup language and is a standardized set of markup symbols or codes inserted into a file intended for display on the internet.
 
 ## CSS
 
